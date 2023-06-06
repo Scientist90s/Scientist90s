@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Yash Shethwala
 
 <!--
 **Scientist90s/Scientist90s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Scientist90s.Scientist90s)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Scientist90s.Scientist90s)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=flag-india)

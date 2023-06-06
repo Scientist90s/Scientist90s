@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Scientist90s.Scientist90s)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=flag-india)

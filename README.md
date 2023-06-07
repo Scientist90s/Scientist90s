@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a Robotics 🤖 Enthuciast with a passion for learning and sharing my knowledge with others. I have recently completed Master's in Robotics and Autonomous Systems with concentration in Artificial Intelligence from [Arizona State University](https://www.asu.edu), Tempe. My past experience include working at [Atreyo Research and Development LLP](https://www.atreyo.in) as a Research and Development Engineer for 2 year. 
 
 - 🔭 I’m currently working with Dr. Jnaneshwar Das at [DREAMS Lab](https://web.asu.edu/jdas/home) on Autonomous offboard control of UAVs 🚁 in GPS denied environments which can be useful for various geological surveys.
-- 🌱 I’m currently learning about 
+- 🌱 I’m currently learning about multi-modal Machine Learning pipelines and Reinforcement Learning.
 - 💬 Ask me about Technology, Innovation and cooking receipes 🍲
 - 📫 How to reach me: yshethwala@gmail.com
 - 😄 Pronouns: He/Him
@@ -28,7 +28,6 @@ I am a Robotics 🤖 Enthuciast with a passion for learning and sharing my knowl
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=flag-india" alt="Jokes Card" />
 </p>
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=flag-india) -->
 
 ### Technologies and Tools
 
